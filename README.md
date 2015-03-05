@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+==============
+
+I love computers and astronomy
+I hate crowds
